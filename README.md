@@ -1,2 +1,2 @@
 # teamtime
-TeamTime BPM for Modx Revolution
+TeamTime BPM
